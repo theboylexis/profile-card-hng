@@ -12,8 +12,8 @@ This project showcases my ability to write clean, structured, and maintainable f
 **Cohort:** HNG 12 (2025)  
 **Institution:** Kwame Nkrumah University of Science and Technology (KNUST)  
 **Email:** alexmarfo509@gmail.com  
-**GitHub:** [alexmarfo](https://github.com/theboylexis)  
-**LinkedIn:** [linkedin.com/in/alexmarfoappiah](https://linkedin.com/in/alexmarfoappiah)  
+**GitHub:** [GitHub](https://github.com/theboylexis)  
+**LinkedIn:** [LinkedIn](https://linkedin.com/in/alexmarfoappiah)  
 
 
 ---
