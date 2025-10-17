@@ -52,7 +52,6 @@ profile-card/
 └── assets/
 └── me.jpg
 
-
 ---
 
 ## 🧰 How to Run Locally
