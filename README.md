@@ -19,7 +19,7 @@ This project showcases my ability to write clean, structured, and maintainable f
 ---
 
 ## 🚀 Live Demo
-👉 [View Deployed Project on Netlify](https://alexmarfo-profile-card.netlify.app)
+👉 [View Deployed Project on Netlify](https://profile-card-alex.netlify.app/)
 
 ---
 
